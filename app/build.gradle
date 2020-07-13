@@ -16,7 +16,9 @@ ext {
 }
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion versions.compileSdk
+    buildToolsVersion versions.buildTools
+
     defaultConfig {
         applicationId "prithvi.io.workmanager"
         minSdkVersion versions.minSdk

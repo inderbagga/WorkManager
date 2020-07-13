@@ -1,5 +1,5 @@
 # Work Manager
-
+> https://medium.com/@prithvibhola08/location-all-the-time-with-workmanager-8f8b58ae4bbc
 > A simple example to demonstrate the working of the [Work Manager](https://developer.android.com/topic/libraries/architecture/workmanager/).
 > This android application gets the location of user in every 15 minutes and stores it into local database using Room(Android Architecture Component).
 
